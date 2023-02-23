@@ -9379,9 +9379,9 @@ a.ui-button:active, .ui-button:active,
 	.main-slider .link-box .theme-btn {
 		padding: 4px 16px !important;
 	}
-	.innovation-section {
+	.slider-bottom-strip {
 		
-		margin-top: -55%;
+		margin-top: -55% !important;
 	}
 	.about-section-two
 	{
